@@ -5,9 +5,7 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 👯 I’m looking to collaborate on **Open Source Projects**
-
-- 💬 Ask me about **History,Economics**
+- I’m looking to collaborate on **Open Source Projects**
 
 - 📫 How to reach me **phadkesoham2004@gmail.com**
 
